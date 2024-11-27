@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">binario</string>
+    <string name="Insert_Text">Ingresa texto:</string>
+    <string name="write_here">Escribe aquí..</string>
+    <string name="convert">Convertir</string>
+    <string name="convert_bin">Convertir a binario</string>
+    <string name="code_bin">Código binario:</string>
+    <string name="result">010010001</string>
+    <string name="save">Guardar</string>
+    <string name="all">TODO</string>
+</resources>
